@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.705882 0 0 0 0 0.705882 0 0 0 0 0.764706 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="产品" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-30.000000, -119.000000)">
+            <g id="形状" transform="translate(30.000000, 117.000000)" filter="#13c09d">
+                <g transform="translate(0.000000, 2.000000)" id="编组" fill="#13c09d" fill-rule="nonzero">
+                    <path d="M10,0 L4,6 L6,8 L10,4 L14,8 L16,6 L10,0 Z M10,16 L6,12 L4,14 L10,20 L16,14 L14,12 L10,16 L10,16 Z M12,10 L10,8 L8.525,9.475 L8.35,9.65 L8,10 L10,12 L12,10 L12,10 Z M0,10 L2,12 L4,10 L2,8 L0,10 Z M16,10 L18,12 L20,10 L18,8 L16,10 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>HOO</title>
+    <g id="HOO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <circle id="椭圆形" fill="#06E9D0" fill-rule="nonzero" cx="256" cy="256" r="256"></circle>
+            <path d="M378,406 L306.641509,406 L306.641,291.496 L205.358,291.496 L205.358491,406 L134,406 L134,106 L205.358491,106 L205.358,220.503 L306.641,220.503 L306.641509,106 L378,106 L378,406 Z" id="形状结合" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

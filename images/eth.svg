@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ETH</title>
+    <g id="ETH" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <circle id="椭圆形" fill="#4188FF" cx="256" cy="256" r="256"></circle>
+            <path d="M337.76445,277.497508 L256.349459,396 L175,277.497508 L256.382225,326.628482 L337.76445,277.497508 Z M256.617774,116 L338,251.37464 L256.647218,301.504689 L175.264992,251.345255 L256.617774,116 Z" id="合并形状" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

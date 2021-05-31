@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>busd</title>
+    <g id="busd" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="oLTC" fill-rule="nonzero">
+            <g id="编组">
+                <circle id="椭圆形" fill="#1D8046" cx="256" cy="256" r="256"></circle>
+                <path d="M368.15,217.15 L407,256 L257,406 L218.15,367.15 L368.15,217.15 Z M314.195,163.195 L353.045,202.045 L203.045,352.045 L164.195,313.195 L314.195,163.195 Z M257,106 L295.85,144.85 L200.885,239.8 L162.035,200.95 L257,106 Z M149.09,213.91 L187.94,252.76 L145.85,294.85 L107,256 L149.09,213.91 Z" id="形状" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

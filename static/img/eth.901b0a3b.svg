@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/24/10</title>
+    <g id="icon/24/10" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(5.000000, 1.000000)" fill-rule="nonzero">
+            <polygon id="路径" fill="#343434" points="6.5 0 6.34765626 0.527577939 6.34765626 15.0359712 6.5 15.1942446 13 11.1846523"></polygon>
+            <polygon id="路径" fill="#8C8C8C" points="6.5 0 2.35098399e-15 11.1846523 6.5 15.1942446 6.5 8.12470025"></polygon>
+            <polygon id="路径" fill="#3C3C3B" points="6.5 16.4604316 6.3984375 16.5659472 6.3984375 21.736211 6.5 22 13 12.5035971"></polygon>
+            <polygon id="路径" fill="#8C8C8C" points="6.5 22 6.5 16.4604316 2.35098399e-15 12.5035971"></polygon>
+            <polygon id="路径" fill="#141414" points="6.5 15.1942446 13 11.1846523 6.5 8.12470025"></polygon>
+            <polygon id="路径" fill="#393939" points="2.35098399e-15 11.1846523 6.5 15.1942446 6.5 8.12470025"></polygon>
+        </g>
+    </g>
+</svg>
