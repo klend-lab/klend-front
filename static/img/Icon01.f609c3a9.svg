@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="26.88" height="26.88"></rect>
+    </defs>
+    <g id="产品" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-311.000000, -124.000000)">
+            <g id="Frame-507" transform="translate(278.000000, 90.000000)">
+                <g id="Icon" transform="translate(33.000000, 34.000000)">
+                    <path d="M24,0 C37.254834,-2.4348735e-15 48,10.745166 48,24 C48,37.254834 37.254834,48 24,48 C10.745166,48 1.623249e-15,37.254834 0,24 C-1.623249e-15,10.745166 10.745166,2.4348735e-15 24,0 Z" id="Rectangle-23" fill="rgb(208, 152, 11)" opacity="0.0470385189"></path>
+                    <g id="Bank" transform="translate(10.560000, 10.560000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Bank-(Background/Mask)"></g>
+                        <g mask="url(#mask-2)" id="Vector">
+                            <path d="M26.88,0 L26.88,26.88 L0,26.88 L0,0 L26.88,0 Z"></path>
+                            <path d="M24.3602051,10.08 L13.4402051,3.36 L2.52020508,10.08 L24.3602051,10.08 Z" stroke="rgb(208, 152, 11)" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0" fill-rule="nonzero"></path>
+                            <line x1="5.88020508" y1="10.08" x2="5.88020508" y2="18.48" stroke="rgb(208, 152, 11)" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></line>
+                            <line x1="10.9202051" y1="10.08" x2="10.9202051" y2="18.48" stroke="rgb(208, 152, 11)" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></line>
+                            <line x1="15.9602051" y1="10.08" x2="15.9602051" y2="18.48" stroke="rgb(208, 152, 11)" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></line>
+                            <line x1="21.0002051" y1="10.08" x2="21.0002051" y2="18.48" stroke="rgb(208, 152, 11)" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></line>
+                            <line x1="3.36020508" y1="18.48" x2="23.5202051" y2="18.48" stroke="rgb(208, 152, 11)" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></line>
+                            <line x1="1.68020508" y1="21.84" x2="25.2002051" y2="21.84" stroke="rgb(208, 152, 11)" stroke-width="1.44" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
